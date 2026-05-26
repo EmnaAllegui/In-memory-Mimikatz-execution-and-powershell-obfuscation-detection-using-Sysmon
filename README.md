@@ -1,0 +1,1 @@
+# In-memory-Mimikatz-execution-and-powershell-obfuscation-detection-using-Sysmon
